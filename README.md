@@ -15,6 +15,6 @@ Sprint Planning: Once the product owner inputs all the necessary details, the ap
 
 Visualization: The stories inside sprints can be visualized using two interactive chart options, including Gantt Chart and Dependency Chart. This feature helps users understand the overall progress of the project, identify potential bottlenecks, and adjust the timeline as needed.
 
-This is a repository which has the code for the project Sprint-Planner <br>
+The following repositories have the code of the Project Sprint Planner <br>
 Frontend: https://github.com/GauravPoosarla/Sprint-Planner-Frontend <br>
 Backend: https://github.com/GauravPoosarla/Sprint-Planner-Backend
